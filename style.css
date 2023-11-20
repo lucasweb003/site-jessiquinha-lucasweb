@@ -1,0 +1,47 @@
+body {
+    background-color: #ffe6ea; /* Cor de fundo rosa claro */
+    font-family: "Arial", sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #77152d; /* Cor de texto rosa */
+  }
+  
+  p {
+    color: #333333; /* Cor de texto preto */
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+
+  .compositor{
+    font-size: 15px;
+  }
+  
+  button {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    margin: 30px;
+    margin-left: 42%;
+    border: none;
+    border-radius: 5px;
+    background-color: #a80d2a;
+    color: #ffffff; /* Cor do coração rosa */
+    font-size: 15px;
+    cursor: pointer;
+  }
+
+  h2{
+    color: #77152d;
+    text-align: center;
+  }
